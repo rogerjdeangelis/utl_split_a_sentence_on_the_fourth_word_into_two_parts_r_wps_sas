@@ -1,0 +1,2 @@
+# utl_split_a_sentence_on_the_fourth_word_into_two_parts_r_wps_sas
+Split a sentence on the fourth word into two parts R WPS SAS.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverfl SAS community.
